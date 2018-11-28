@@ -1,0 +1,13 @@
+{
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "username": "admin",
+    "password": "admin",
+    "database": "sample-test"
+  },
+  "facebook": {
+    "client_id": "",
+    "client_secret": ""
+  }
+}
